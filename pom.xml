@@ -12,6 +12,8 @@
         <module>log4j-tools</module>
         <module>jul</module>
         <module>jcl</module>
+        <module>logback</module>
+        <module>log4j2</module>
     </modules>
 
     <properties>
